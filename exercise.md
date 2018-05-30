@@ -90,7 +90,12 @@ Javascript provides us with a number of native methods that allow us to interact
 > This is a great exercise for practicing your "Google Fu"! If you need a starting point, check out [MDN's documentation page on arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array).
 
 ```js
-// Your answers go here.
+// array.push();
+// array.pop();
+// array.shift();
+// array.unshift();
+// array.join(" "):
+// array.split();
 ```
 
 What will the contents of the below arrays be after the code samples are executed? Come up with an answer yourself before testing it out in the console.
